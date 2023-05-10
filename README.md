@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rahulwakalkar
-- 👀 I’m interested in ..Data Science and Mathematics.
-- 🌱 I’m currently learning .Deep Learning..
-- 💞️ I’m looking to collaborate on ..AWS.
-- 📫 How to reach me ...
+- currently working as  enhancing my skills
+- Ask me about Python,SQL, Power BI, Machine learning, Deep Learning, Computer vision, Spark
+- How to reach me rahulwakalkar99@gail.com
+- 💞️ 
 
 <!---
 Rahulwakalkar/Rahulwakalkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
